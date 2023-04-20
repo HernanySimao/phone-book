@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Olá, eu sou o seu professor</h1>
+    <h1>Olá, eu sou o seu professor version 2</h1>
   </div>
 </template>
 
